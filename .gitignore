@@ -1,0 +1,7 @@
+# gitignore for golang
+
+**.env
+
+**.bash
+
+.vscode/
